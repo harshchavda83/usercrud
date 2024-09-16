@@ -66,7 +66,7 @@
 
                     </div>
 
-                    <div class="submit_div">
+                    <div id="submit_div">
                         <button type="submit" class="btn btn-success" name="submit">Submit</button>
                     </div>
 
